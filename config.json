@@ -1,0 +1,6 @@
+{
+    "modules": [
+      "ecommerce_custom",
+      "dashboard"
+    ]
+}
